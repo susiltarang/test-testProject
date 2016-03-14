@@ -4,14 +4,14 @@ public class TestClass {
 
 	public static void main(String arg[]){
 		
-		main("hello");
+		main1("hello");
 		
 		
 	}
 	
 	
 	
-	public static void main(String a){
+	public static void main1(String a){
 		
 		
 		
