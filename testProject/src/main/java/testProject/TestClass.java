@@ -5,8 +5,8 @@ public class TestClass {
 	public static void main(String arg[]){
 		
 
-mymethod("hello"+"hello");
-mymethod("hello");
+mymethod("hello"+"1234","");
+
 
 		
 		
@@ -14,11 +14,11 @@ mymethod("hello");
 	
 	
 	
-	public static void mymethod(String a){
+	public static void mymethod(String a,String b){
 		
 		
 		System.out.println("test"+"hello");
-		System.out.println("test");
+	
 		
 	}
 	
