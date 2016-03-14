@@ -15,6 +15,7 @@ mymethod("hello"+"1234","");
 	public static void mymethod(String a,String b){
 
 		System.out.println("test");
+		System.out.println("test");
 
 			
 	}
